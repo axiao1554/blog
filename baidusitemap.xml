@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.axiao.vip/system-reinstallation.html</loc>
+    <lastmod>2021-06-26</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/xdebug.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/seo.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/git.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/tampermonkey.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/flex.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/tv.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/vpn.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/idm.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/markdown.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/navicat-1.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.axiao.vip/atom.html</loc>
     <lastmod>2021-06-25</lastmod>
   </url>
   <url>
@@ -11,50 +55,6 @@
   <url>
     <loc>https://blog.axiao.vip/hexo-install.html</loc>
     <lastmod>2021-06-24</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/xdebug.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/tv.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/vpn.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/markdown.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/navicat-1.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/seo.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/tampermonkey.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/flex.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/git.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/idm.html</loc>
-    <lastmod>2021-04-13</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.axiao.vip/atom.html</loc>
-    <lastmod>2021-04-13</lastmod>
   </url>
   <url>
     <loc>https://blog.axiao.vip/tp-project-login.html</loc>
