@@ -2,142 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.axiao.vip/bdy-1.html</loc>
-    
-    <lastmod>2021-06-26T12:04:09.102Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/bdy-8.html</loc>
-    
-    <lastmod>2021-06-26T12:02:30.482Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/bdy-7.html</loc>
-    
-    <lastmod>2021-06-26T11:57:38.647Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/bdy-6.html</loc>
-    
-    <lastmod>2021-06-26T11:57:33.123Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/bdy-5.html</loc>
-    
-    <lastmod>2021-06-26T11:57:27.423Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/bdy-4.html</loc>
-    
-    <lastmod>2021-06-26T11:57:21.773Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/bdy-3.html</loc>
-    
-    <lastmod>2021-06-26T11:57:16.512Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/bdy-2.html</loc>
-    
-    <lastmod>2021-06-26T11:57:08.588Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/system-reinstallation.html</loc>
-    
-    <lastmod>2021-06-26T11:56:45.451Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/idm.html</loc>
-    
-    <lastmod>2021-06-26T11:40:22.358Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.axiao.vip/tampermonkey.html</loc>
     
-    <lastmod>2021-06-26T11:40:22.358Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/vpn.html</loc>
-    
-    <lastmod>2021-06-26T11:40:22.358Z</lastmod>
+    <lastmod>2021-06-26T14:28:00.622Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.axiao.vip/navicat-1.html</loc>
     
-    <lastmod>2021-06-26T11:40:22.358Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/seo.html</loc>
-    
-    <lastmod>2021-06-26T11:40:22.358Z</lastmod>
+    <lastmod>2021-06-26T14:28:00.622Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.axiao.vip/tv.html</loc>
     
-    <lastmod>2021-06-26T11:40:22.358Z</lastmod>
+    <lastmod>2021-06-26T14:28:00.622Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.axiao.vip/xdebug.html</loc>
     
-    <lastmod>2021-06-26T11:40:22.358Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/flex.html</loc>
-    
-    <lastmod>2021-06-26T11:40:22.357Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/git.html</loc>
-    
-    <lastmod>2021-06-26T11:40:22.357Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.axiao.vip/markdown.html</loc>
-    
-    <lastmod>2021-06-26T11:40:22.355Z</lastmod>
+    <lastmod>2021-06-26T14:28:00.622Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.axiao.vip/atom.html</loc>
     
-    <lastmod>2021-06-26T11:40:22.354Z</lastmod>
+    <lastmod>2021-06-26T14:28:00.622Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.axiao.vip/system-reinstallation.html</loc>
+    
+    <lastmod>2021-06-26T14:28:00.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.axiao.vip/seo.html</loc>
+    
+    <lastmod>2021-06-26T14:28:00.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.axiao.vip/markdown.html</loc>
+    
+    <lastmod>2021-06-26T14:28:00.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.axiao.vip/vpn.html</loc>
+    
+    <lastmod>2021-06-26T14:28:00.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.axiao.vip/flex.html</loc>
+    
+    <lastmod>2021-06-26T14:28:00.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.axiao.vip/git.html</loc>
+    
+    <lastmod>2021-06-26T14:28:00.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.axiao.vip/idm.html</loc>
+    
+    <lastmod>2021-06-26T14:28:00.547Z</lastmod>
     
   </url>
   
